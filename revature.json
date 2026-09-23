@@ -1,0 +1,20 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/AddTest.java",
+      "testCases": [
+        {
+          "methodName": "addTest1",
+          "label": "Adds two small integers",
+          "description": "Verifies that adding 1 and 2 returns 3."
+        },
+        {
+          "methodName": "addTest2",
+          "label": "Adds two moderate integers",
+          "description": "Checks that adding 3 and 4 returns 7."
+        }
+      ]
+    }
+  ]
+}
